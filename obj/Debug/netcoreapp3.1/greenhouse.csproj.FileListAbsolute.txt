@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.exe
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.deps.json
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.runtimeconfig.json
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.runtimeconfig.dev.json
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.dll
+C:\Users\sever\workspace\csharp\instructors\greenhouse\bin\Debug\netcoreapp3.1\greenhouse.pdb
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.dll
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.pdb
+C:\Users\sever\workspace\csharp\instructors\greenhouse\obj\Debug\netcoreapp3.1\greenhouse.genruntimeconfig.cache
